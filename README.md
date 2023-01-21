@@ -15,6 +15,6 @@ I recently had a Spektrum 5000mAh 3s 50C G2 smart battery stop charging. We were
 For the good battery I have to use a G1 5000mAh 3s 30C since I couldn't find another G2 of the same type. 
 First thing I check of course is the voltage and its at 12.5V.
 
-![alt text](https://github.com/davidflypei/Spektrum-Smart-G2-Battery-No-Communication/blob/main/Images/good-main-volt.jpg?raw=true)
+<img src"https://github.com/davidflypei/Spektrum-Smart-G2-Battery-No-Communication/blob/main/Images/good-main-volt.jpg?raw=true" width=50 />
 
 I did also check the voltage on the signal pin 
