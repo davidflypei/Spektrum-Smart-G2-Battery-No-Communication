@@ -16,10 +16,14 @@ For the good battery I have to use a G1 5000mAh 3s 30C since I couldn't find ano
 
 First thing I check of course is the voltage and its at 12.5V.
 
-<figure style="border: thin #c0c0c0 solid; display: flex; flex-flow: column; padding: 5px; max-width: 220px; margin: auto;">
-	<img src="https://github.com/davidflypei/Spektrum-Smart-G2-Battery-No-Communication/blob/main/Images/good-main-volt.jpg?raw=true" width=40%  />
-	<figcaption style="background-color: #222; color: #fff; font: italic smaller sans-serif; padding: 3px; text-align: center;"> Good battery with 12.5V on the main lead </figcaption>
-</figure>
+<div width="40%;">
+
+| <img src="https://github.com/davidflypei/Spektrum-Smart-G2-Battery-No-Communication/blob/main/Images/good-main-volt.jpg?raw=true" width=40%  /> |
+|:-:|
+| Good battery with 12.5V on the main lead |
+
+</div>
+
 
 
 I did also check the voltage on the signal pin which show 0V. I check on some other good smart batteries as well to make sure it wasn't a fluke.
